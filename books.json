@@ -1,0 +1,109 @@
+[{
+  "_id": {
+    "$oid": "61a965c0c472cf0e07972333"
+  },
+  "title": "Python Data Science Handbook",
+  "category": "programming",
+  "author": "Jake VanderPlas",
+  "price": 200.99,
+  "numberInStock": 50,
+  "numberOfSolds": 25,
+  "img": "./images/555.jpeg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61a96cdd230467107e43b221"
+  },
+  "title": "How add a new book",
+  "category": "programming",
+  "author": "Mei",
+  "price": 200.99,
+  "numberInStock": 50,
+  "numberOfSolds": 25,
+  "img": "./images/item-2.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61a9cdafbd6ea654286b925b"
+  },
+  "title": "The book will be deleted later7",
+  "category": "programming",
+  "author": "Carrie",
+  "price": 200.99,
+  "numberInStock": 34,
+  "numberOfSolds": 41,
+  "img": "./images/item-3.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ab1cf6b357efa5db37a592"
+  },
+  "title": "the updated book999",
+  "category": "programming",
+  "author": "Carrie",
+  "price": 786.99,
+  "numberInStock": 120,
+  "numberOfSolds": 65,
+  "img": "./images/555.jpeg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ab1d6db357efa5db37a596"
+  },
+  "title": "this a test book",
+  "category": "programming",
+  "author": "Carrie",
+  "price": 34.5,
+  "numberInStock": 110,
+  "numberOfSolds": 75,
+  "img": "./images/666.jpeg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61aeed73a25dfb7736229451"
+  },
+  "title": "test update",
+  "category": "Story",
+  "author": "Carrie",
+  "price": 44,
+  "numberInStock": 33,
+  "numberOfSolds": 22,
+  "img": "./images/item-2.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61aeee51a25dfb7736229459"
+  },
+  "title": "give up programming",
+  "category": "Science",
+  "author": "Mei",
+  "price": 22,
+  "numberInStock": 4,
+  "numberOfSolds": 40,
+  "img": "./images/item-1.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61afcbf4118d3a2afc6c6fdc"
+  },
+  "title": "ccaaa",
+  "category": "Novel",
+  "author": "Mei",
+  "price": 11,
+  "numberInStock": 16,
+  "numberOfSolds": 39,
+  "img": "./images/item-2.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61afe57c8808225a401cb5d4"
+  },
+  "title": "give up programming",
+  "category": "Science",
+  "author": "Carrie",
+  "price": 555,
+  "numberInStock": 66,
+  "numberOfSolds": 55,
+  "img": "./images/item-2.jpg",
+  "__v": 0
+}]

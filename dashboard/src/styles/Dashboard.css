@@ -1,0 +1,41 @@
+.panels > div {
+  
+  border: 1px solid #F2C078;
+  padding: 10px;
+}
+
+.panels {
+  display: grid;
+  grid-gap: 0px;
+  grid-template-columns: 225px auto auto;
+  grid-template-rows: auto auto;
+}
+.panel-books {
+  grid-row: span 2;
+}
+.panel-gridtable {
+  grid-column: span 2;
+}
+
+.panel-piechart{
+  width: 500px;
+}
+
+@media (max-width: 750px) {
+  .panels {
+    grid-template-columns: 225px auto;
+    grid-template-rows: auto auto auto;
+  }
+  .panel-positions {
+    grid-column: span 2;
+  }
+}
+
+@media (max-width: 500px) {
+  .panels {
+    grid-template-columns: auto;
+  }
+  .panel-positions {
+    grid-column: span 1;
+  }
+}
