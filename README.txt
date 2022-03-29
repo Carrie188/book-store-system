@@ -20,4 +20,3 @@ table name: books
 data: books.json 
 
 
-Team members: Qiao Chen, Mei Kwan
